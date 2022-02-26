@@ -1,4 +1,4 @@
-### Hi!👋 I'am Ilham Fazri
+### Hi! I'm Ilham Fazri 👋
 
 I'm an AI Engineer from Indonesia 🇮🇩, who likes to build some projects with DeepLearning/Machine Learning frameworks, SQL and NoSQL databases, Docker, Python, and backend APIs.
 
