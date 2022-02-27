@@ -7,7 +7,13 @@ Currently, I'm working as AI Engineer at [Widya Wicara](https://widyawicara.com)
 In my free time, I like playing games 🎮, watching movies or TV series 🍿, and reading SOTA paper in machine learning as my sleeping pills 💊. 
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+Python     2 hrs 42 mins   ████████████████░░░░░░░░░   64.58 %
+Markdown   1 hr 13 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+JSON       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
