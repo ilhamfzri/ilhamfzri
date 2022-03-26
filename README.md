@@ -11,10 +11,10 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Python       20 hrs 39 mins  ██████████████████████░░░   87.49 %
-Markdown     2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Text         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python       26 hrs 8 mins   ██████████████████████▓░░   90.51 %
+Markdown     2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
