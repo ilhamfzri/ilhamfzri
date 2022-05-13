@@ -11,12 +11,12 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   35.84 %
-HTML         2 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.74 %
-JavaScript   2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript   6 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.46 %
+Python       3 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+HTML         3 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Docker       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
