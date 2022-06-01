@@ -11,8 +11,9 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Python   12 hrs 53 mins  ███████████████████████▓░   94.94 %
-Other    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Python     9 hrs 44 mins   ████████████████████▓░░░░   82.26 %
+Docker     1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Other      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
