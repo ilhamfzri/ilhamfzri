@@ -11,12 +11,10 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Python     8 hrs 52 mins   ████████████████████▓░░░░   82.59 %
-Docker     1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-YAML       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Text       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JSON       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python     9 hrs 51 mins   ███████████████████▓░░░░░   79.31 %
+Docker     1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Markdown   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
