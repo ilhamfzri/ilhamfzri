@@ -11,11 +11,10 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-HTML         8 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   36.72 %
-JavaScript   4 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
-YAML         4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-CSS          2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Other        59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+HTML         8 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.22 %
+JavaScript   4 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+CSS          2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Other        59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
