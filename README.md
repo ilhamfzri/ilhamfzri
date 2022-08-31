@@ -11,8 +11,11 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 mins          ██████████████████████▓░░   90.28 %
-Other    0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Python   45 mins         ███████████░░░░░░░░░░░░░░   44.02 %
+YAML     23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+HTML     19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Bash     13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
