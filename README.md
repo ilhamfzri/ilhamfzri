@@ -10,10 +10,10 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-MDX          50 mins         ███████████████████████▒░   93.50 %
-YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+MDX          50 mins         █████████████████████▓░░░   87.28 %
+Python       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
