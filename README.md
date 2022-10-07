@@ -10,11 +10,8 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Go       4 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.12 %
-MDX      3 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.12 %
-YAML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go      3 hrs 51 mins   █████████████████████████   99.94 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
