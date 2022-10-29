@@ -10,11 +10,9 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Go         10 hrs 57 mins  ██████████████████████▒░░   89.84 %
-Markdown   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-YAML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go         10 hrs 8 mins   ████████████████████▓░░░░   82.44 %
+Markdown   2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
