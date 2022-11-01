@@ -10,8 +10,8 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Go         6 hrs 17 mins   █████████████████▓░░░░░░░   70.01 %
-Markdown   2 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+Go         5 hrs 13 mins   ████████████████▒░░░░░░░░   65.94 %
+Markdown   2 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.00 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
