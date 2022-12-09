@@ -5,12 +5,12 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Go                14 hrs 11 mins  ██████████████████░░░░░░░   71.72 %
-Markdown          1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-YAML              1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Docker            47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-JSON              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Protocol Buffer   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Go                13 hrs 16 mins  █████████████████▒░░░░░░░   69.15 %
+Markdown          1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+YAML              1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Docker            47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JSON              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Protocol Buffer   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
