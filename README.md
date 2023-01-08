@@ -5,12 +5,12 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 31 mins   ██████████████████████░░░   88.27 %
-JSON         54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript        9 hrs 23 mins   █████████████████▒░░░░░░░   69.82 %
+Protocol Buffer   1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+JSON              55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Go                47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Markdown          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Bash              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
