@@ -5,12 +5,12 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Go                12 hrs 58 mins  ███████████▒░░░░░░░░░░░░░   45.47 %
-JavaScript        9 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   32.89 %
-Protocol Buffer   3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-JSON              1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-YAML              42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Makefile          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Go                12 hrs 58 mins  ███████████▓░░░░░░░░░░░░░   47.05 %
+JavaScript        9 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   32.99 %
+Protocol Buffer   3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+JSON              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+YAML              42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Makefile          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
