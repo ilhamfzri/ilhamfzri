@@ -5,12 +5,11 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Go                15 hrs 4 mins   █████████████████████▒░░░   84.92 %
-Protocol Buffer   1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Markdown          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Makefile          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-YAML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Bash              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Go                9 hrs 1 min     ██████████████████████▒░░   89.40 %
+Protocol Buffer   45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Makefile          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Git Config        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
