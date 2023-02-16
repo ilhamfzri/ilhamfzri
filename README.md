@@ -5,12 +5,12 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Java             16 hrs 11 mins  ██████████████████░░░░░░░   72.11 %
-XML              2 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-HTML             1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Properties       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-GitIgnore file   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-SQL              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Java             16 hrs 36 mins  ██████████████████░░░░░░░   72.22 %
+XML              2 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+HTML             1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Properties       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+GitIgnore file   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+SQL              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
