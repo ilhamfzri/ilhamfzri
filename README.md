@@ -5,9 +5,7 @@ Powered by [WakaTime](https://wakatime.com/) ♡
 <!--START_SECTION:waka-->
 
 ```text
-Dart   3 hrs 26 mins   ████████████████████████▓   98.48 %
-YAML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Bash   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Dart   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
